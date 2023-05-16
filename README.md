@@ -5,7 +5,7 @@ This is my portfolio of projects I have worked on while at SEO Tech Developer (S
 [Linear Plot of Average American Height](https://github.com/abcorley/Linear_Plot)
 ## Projects
 1. [Binge-Party](https://github.com/cjwinston/binge-party)
-2. [Wonderful Recues](https://github.com/egomez4/Week4Project)
+2. [Wonderful Rescues](https://github.com/egomez4/Week4Project)
 3. [Bored](https://seo-bored.herokuapp.com/)
 
 ## Contact Information
